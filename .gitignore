@@ -1,0 +1,16 @@
+#  ignore idea
+.idea
+*.iml
+
+# ignore eclipse
+.project
+.classpath
+.settings
+.metadata
+
+# ignore module
+/TMC-core/target/
+/TMC-ui/target/
+
+# ignore config
+/TMC-core/src/main/resources/application.properties
